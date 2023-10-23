@@ -1,1 +1,11 @@
-아니 여기 내용 어디갔어
+git init
+git clone "경로"
+git add filename
+git commit -m "설명"
+git remote add origin "link"
+git push origin master
+git branch
+git branch branchname
+git checkout branchname
+git marge branchname
+git push origin branchname
